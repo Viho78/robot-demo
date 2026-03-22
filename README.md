@@ -9,3 +9,7 @@ To initialise project and create virtual environment:
 3. 'git clone <repo_url>'
 4. poetry config virtualenvs.in-project true 
 5. 'poetry install'
+
+
+Example test report with tags:
+<img width="885" height="663" alt="image" src="https://github.com/user-attachments/assets/144bbfc8-a8f3-43cb-828c-3e5bd27837c5" />
